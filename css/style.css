@@ -7570,9 +7570,9 @@ p {
   right: 0;
   bottom: 0;
   top: 0;
-  background: red;
+  background: grey;
   z-index: 8;
-  opacity: 0;
+  opacity: .0;
 }
 .fh5co-project > a .fh5co-overlay-text {
   position: absolute;
