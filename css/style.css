@@ -7570,7 +7570,7 @@ p {
   right: 0;
   bottom: 0;
   top: 0;
-  background: rgba(68, 218, 130, 0.9);
+  background: red;
   z-index: 8;
   opacity: 0;
 }
