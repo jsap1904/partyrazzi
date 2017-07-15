@@ -880,6 +880,7 @@
 }
 .icon-star:before {
 	content: "\e71d";
+	    color: red;
 }
 .icon-stopwatch:before {
 	content: "\e71e";
